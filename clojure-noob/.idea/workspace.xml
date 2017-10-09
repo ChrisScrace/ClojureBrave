@@ -31,27 +31,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+              <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4845">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1507546528926" expanded="true" signature="22144:22186" ph="..." />
-                <marker date="1507546528926" expanded="true" signature="22144:22204" ph="..." />
-                <marker date="1507546528926" expanded="true" signature="22144:22217" ph="..." />
-                <marker date="1507546528926" expanded="true" signature="22144:22232" ph="..." />
-              </folding>
+            <state relative-caret-position="136">
+              <caret line="293" column="6" lean-forward="false" selection-start-line="293" selection-start-column="6" selection-end-line="293" selection-end-column="6" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -77,6 +72,7 @@
         <option value="$PROJECT_DIR$/test/clojure_noob/hobbit/hobbit.clj" />
         <option value="$PROJECT_DIR$/src/clojure_noob/core.clj" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
       </list>
     </option>
   </component>
@@ -118,6 +114,11 @@
             <path>
               <item name="clojure-noob" type="b2602c69:ProjectViewProjectNode" />
               <item name="clojure-noob" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="clojure-noob" type="b2602c69:ProjectViewProjectNode" />
+              <item name="clojure-noob" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -151,9 +152,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="Keybindings" />
     <property name="cursive.last.file.extension./home/dev/projects/clojurebrave/clojure-noob/test" value="clj" />
-    <property name="SearchEverywhereHistoryKey" value="workspa&#9;FILE&#9;file:///home/dev/projects/clojurebrave/clojure-noob/.idea/workspace.xml" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///home/dev/projects/clojurebrave/clojure-noob/.idea/workspace.xml&#10;workspa&#9;FILE&#9;file:///home/dev/projects/clojurebrave/clojure-noob/.idea/workspace.xml" />
   </component>
-  <component name="ReplState" timestamp="1507546629910">{:repl-history {:ide [], :local [], :remote []}}</component>
+  <component name="ReplState" timestamp="1507547297957">{:repl-history {:ide [], :local [], :remote []}}</component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -271,12 +272,12 @@
       <option name="presentableId" value="Default" />
       <updated>1507300325903</updated>
       <workItem from="1507300329757" duration="1362000" />
-      <workItem from="1507301734377" duration="8030000" />
+      <workItem from="1507301734377" duration="8697000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9392000" />
+    <option name="totallyTimeSpent" value="10059000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -364,23 +365,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4845">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1507546528926" expanded="true" signature="22144:22186" ph="..." />
-            <marker date="1507546528926" expanded="true" signature="22144:22204" ph="..." />
-            <marker date="1507546528926" expanded="true" signature="22144:22217" ph="..." />
-            <marker date="1507546528926" expanded="true" signature="22144:22232" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="293" column="6" lean-forward="false" selection-start-line="293" selection-start-column="6" selection-end-line="293" selection-end-column="6" />
           <folding />
         </state>
       </provider>
